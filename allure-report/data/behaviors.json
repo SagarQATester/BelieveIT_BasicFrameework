@@ -1,0 +1,30 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Login Screen",
+    "children" : [ {
+      "name" : "Feature : TS_001-TC_001: To check the User Login screen in NCMS system with valid credentials",
+      "children" : [ {
+        "name" : "Story:Login Screen",
+        "children" : [ {
+          "name" : "TS_001-TC_001: To check the User Login screen in NCMS system with valid credentials",
+          "uid" : "c532e606995f4a0d",
+          "parentUid" : "0f23977318c1604b58794ff6e123ba91",
+          "status" : "passed",
+          "time" : {
+            "start" : 1635495611869,
+            "stop" : 1635495635682,
+            "duration" : 23813
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "chrome", "localhost", "4444" ]
+        } ],
+        "uid" : "0f23977318c1604b58794ff6e123ba91"
+      } ],
+      "uid" : "fe0f8ce720bbedbbcee14f1c8c2a8255"
+    } ],
+    "uid" : "8bd9239399aeac60196a0308f433fa81"
+  } ]
+}

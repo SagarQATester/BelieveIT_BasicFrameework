@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-KB4SAUTQ",
+    "children" : [ {
+      "name" : "14148@LAPTOP-KB4SAUTQ.TestNG-test=LoginSuite-1(17)",
+      "children" : [ {
+        "name" : "TS_001-TC_001: To check the User Login screen in NCMS system with valid credentials",
+        "uid" : "c532e606995f4a0d",
+        "parentUid" : "623c8e44e92fe460c474fc8a74fa22e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1635495611869,
+          "stop" : 1635495635682,
+          "duration" : 23813
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "localhost", "4444" ]
+      } ],
+      "uid" : "623c8e44e92fe460c474fc8a74fa22e8"
+    } ],
+    "uid" : "a3ad846436264460f8cf3e5eb1a373ed"
+  } ]
+}

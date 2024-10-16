@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.qa.test.suite.LoginSuite",
+    "children" : [ {
+      "name" : "TS_001_TC_001",
+      "uid" : "c532e606995f4a0d",
+      "parentUid" : "8eea28c856b9c7ba36a34772ee6e9119",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635495611869,
+        "stop" : 1635495635682,
+        "duration" : 23813
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome", "localhost", "4444" ]
+    } ],
+    "uid" : "com.qa.test.suite.LoginSuite"
+  } ]
+}

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/commons-lang3-3.12.0-bin.zip"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/groovy-2.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/groovy-json-2.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/groovy-xml-2.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/jar_files (1).zip"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/json-20141113.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/json-path-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/junit-4.10-sources.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/logback-classic-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/logback-core-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/rest-assured-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/rest-assured-common-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/savcoreextentframework.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/selenium-api-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/selenium-chrome-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/selenium-edge-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/selenium-firefox-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/selenium-ie-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/selenium-leg-rc-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/selenium-remote-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/selenium-support-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/testng-6.9.4.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/xml-path-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/groovy-2.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/groovy-json-2.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/groovy-xml-2.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/json-20141113.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/json-path-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/junit-4.10-sources.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/logback-classic-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/logback-core-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/rest-assured-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/rest-assured-common-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/savcoreextentframework.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/selenium-api-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/selenium-chrome-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/selenium-edge-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/selenium-firefox-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/selenium-ie-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/selenium-leg-rc-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/selenium-remote-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/selenium-support-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/testng-6.9.4.jar"/>
+	<classpathentry kind="lib" path="D:/space/ncfe-tests/libs1/libs1/xml-path-2.8.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

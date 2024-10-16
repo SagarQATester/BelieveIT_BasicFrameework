@@ -1,0 +1,11 @@
+[ {
+  "uid" : "c532e606995f4a0d",
+  "name" : "TS_001-TC_001: To check the User Login screen in NCMS system with valid credentials",
+  "time" : {
+    "start" : 1635495611869,
+    "stop" : 1635495635682,
+    "duration" : 23813
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]
